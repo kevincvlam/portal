@@ -3,7 +3,7 @@ background-image:url("/images/bg.png");
 background-repeat:no-repeat;
 display:table;
 font-family:Cambria;
-padding:2em;
+padding:1em;
 width:525px;
 }
 .navigation {
@@ -16,7 +16,7 @@ padding:0;
 }
 #header {
 float:right;
-padding:0;
+padding:1em 1em;
 }
 #titletail {
 color:gray;
@@ -26,9 +26,9 @@ margin-top:-1.8em;
 padding:0;
 }
 #contact {
-float:right;
+float:left;
 font-size:1.1em;
-margin:-7em -3.5em;
+margin:-7em -2.5em;
 }
 #content {
 color:gray;
@@ -63,6 +63,6 @@ a:hover {
 text-decoration:underline;
 }
 p {
-margin:1em 0em;
+margin:1em 0;
 }
 
