@@ -3,7 +3,8 @@
    </div>
    <ul class="navigation round">
      <li><%= link_to "Home", root_path %></li>
-    <li>About</li>
+     <li><%= link_to "About", about_path %></li>
+     <li><a href="mailto:kevincvlam@utoronto.ca">Email</a></li> 
     <li><a href="http://www.facebook.com/kevincv.lam">Facebook</a></li>
     <li><a href=http://kevincvlam.tumblr.com/>Blog</a></li>
     <li><a href="http://twitter.com/kevincvlam">Twitter</a></li>
