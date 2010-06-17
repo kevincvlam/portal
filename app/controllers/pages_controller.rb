@@ -5,4 +5,9 @@ class PagesController < ApplicationController
   def about
     @title = "About"
   end
+
+  def cv
+    @title ="Curriculum Vitae"
+  end
+
 end

@@ -1,10 +1,10 @@
 .container {
+background-image:url("/images/bg.png");
+background-repeat:no-repeat;
 display:table;
 font-family:Cambria;
 padding:2em;
 width:525px;
-background-image: url(/images/bg.png);
-background-repeat: no-repeat;
 }
 .navigation {
 font-size:2em;
@@ -16,7 +16,7 @@ padding:0;
 }
 #header {
 float:right;
-padding:1em;
+padding:0;
 }
 #titletail {
 color:gray;
@@ -25,12 +25,17 @@ line-height:1;
 margin-top:-1.8em;
 padding:0;
 }
+#contact {
+float:right;
+font-size:1.1em;
+margin:-7em -3.5em;
+}
 #content {
 color:gray;
 font-size:1.38em;
 letter-spacing:0.05em;
 line-height:1em;
-margin-top:-20px;
+margin-top:-18px;
 padding:0;
 }
 #footer {
@@ -42,7 +47,7 @@ float:right;
 }
 ul {
 list-style-type:none;
-margin:0;
+margin:1em;
 padding:0;
 }
 a {
@@ -51,7 +56,13 @@ display:block;
 text-decoration:none;
 width:60px;
 }
+#cv h6 {
+list-style-type:square;
+}
 a:hover {
 text-decoration:underline;
+}
+p {
+margin:1em 0em;
 }
 
