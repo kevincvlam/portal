@@ -995,3 +995,748 @@ Rendering pages/home
 Rendered layouts/_stylesheets (3.0ms)
 Rendered layouts/_header (1.0ms)
 Completed in 38ms (View: 33, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 10:41:36) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (16.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 94ms (View: 94, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 10:45:52) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (15.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 10:47:06) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 23ms (View: 18, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 10:47:50) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 10:48:59) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 10:49:16) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (15.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 62ms (View: 46, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:35:04) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (62.0ms)
+Rendered layouts/_header (16.0ms)
+Completed in 250ms (View: 250, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:36:58) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:37:22) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:37:28) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:40:22) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 32ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:42:40) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:43:05) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:49:56) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:56:59) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 11:58:38) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:00:26) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+
+ActionView::TemplateError (undefined local variable or method `about_path' for #<ActionView::Base:0x95d6f98>) on line #6 of app/views/layouts/_header.html.erb:
+3:    </div>
+4:    <ul class="navigation round">
+5:      <li><%= link_to "Home", root_path %></li>
+6:     <li><%= link_to "About", about_path %></li>
+7:     <li><a href="http://www.facebook.com/kevincv.lam">Facebook</a></li>
+8:     <li><a href=http://kevincvlam.tumblr.com/>Blog</a></li>
+9:     <li><a href="http://twitter.com/kevincvlam">Twitter</a></li>
+
+    app/views/layouts/_header.html.erb:6
+    app/views/layouts/application.html.erb:11
+    c:/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (109.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:00:34) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+
+ActionView::TemplateError (undefined local variable or method `about_path' for #<ActionView::Base:0x9436b48>) on line #6 of app/views/layouts/_header.html.erb:
+3:    </div>
+4:    <ul class="navigation round">
+5:      <li><%= link_to "Home", root_path %></li>
+6:     <li><%= link_to "About", about_path %></li>
+7:     <li><a href="http://www.facebook.com/kevincv.lam">Facebook</a></li>
+8:     <li><a href=http://kevincvlam.tumblr.com/>Blog</a></li>
+9:     <li><a href="http://twitter.com/kevincvlam">Twitter</a></li>
+
+    app/views/layouts/_header.html.erb:6
+    app/views/layouts/application.html.erb:11
+    c:/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (250.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:03:36) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:03:38) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (4.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 32ms (View: 27, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:04:15) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:04:20) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:04:21) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:04:22) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 18ms (View: 14, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:04:22) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:04:23) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:04:28) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:04:29) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:04:35) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:04:38) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:17:15) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (4.0ms)
+Rendered layouts/_header (3.0ms)
+Completed in 118ms (View: 116, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:17:18) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:18:27) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:20:16) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:21:28) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 23ms (View: 20, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:22:06) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:22:30) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 37ms (View: 31, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:23:11) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:23:29) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 26ms (View: 22, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:23:45) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 34ms (View: 28, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:24:19) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 23ms (View: 18, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:24:50) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 24ms (View: 19, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:26:38) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:26:51) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 21ms (View: 17, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:27:11) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:33:07) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:33:31) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (16.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:35:51) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:36:29) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:36:41) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:36:49) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (16.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:37:04) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (15.0ms)
+Rendered layouts/_header (16.0ms)
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:37:06) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:37:16) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:37:29) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:37:40) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:38:15) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:38:44) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 32ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:39:44) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:40:11) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 141ms (View: 141, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:41:58) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:43:06) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:43:37) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:43:40) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:43:41) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:43:55) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:45:36) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:45:40) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:45:41) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:45:41) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:46:29) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-17 12:46:30) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/bg.png" with {:method=>:get}):
+  c:/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:47:06) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:47:50) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:49:01) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:49:11) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:49:39) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (4.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:49:41) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:55:04) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 14ms (View: 7, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:56:17) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:57:03) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:57:22) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:58:03) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:58:11) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 12:58:23) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 12:58:24) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/about]
