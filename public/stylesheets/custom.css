@@ -1,40 +1,52 @@
 
 .container {
-width:710px;
+width:768px;
 }
 body {
-background:none repeat scroll 0 0 #BEF781;
+background:none repeat scroll 0 0 #4E780F;
 }
+
+#name {
+  font-size: 3em;
+  font-color: white;
+}
+#name a {
+color: #FFFFFF;
+}
+
+#name a:hover {
+text-decoration:none;
+color: #FFFFFF;
+}
+
 #header {
-display:none;
-padding-top:20px;
+padding-top:3em;
 }
 #header img {
-background:none repeat scroll 0 0 #FFFFFF;
-display:none;
+
 padding:1em;
 }
 #content {
-background:none repeat scroll 0 0 #FFFFFF;
+background:none repeat scroll 0 0 #65A42A;
 font-size:1em;
 margin-top:1em;
 padding:20px;
 }
 a {
-color:#0099CC;
+color:#9ADE35;
 text-decoration:none;
 }
 a:hover {
-color:#006699;
+color:#C4FE6E;
 text-decoration:underline;
 }
 a:visited {
-color:#006699;
+color:#C4FE6E;
 }
 .navigation {
 }
 .navigation {
-background-color:white;
+background-color:#4E780F;
 padding:0 0.7em;
 white-space:nowrap;
 }
@@ -48,16 +60,17 @@ padding:0.2em 0;
 }
 .navigation li a {
 font-weight:bold;
-padding:0 5px;
+padding:0 2em;
+font-color:#C4FE6E;
 }
 .navigation li a:visited {
-color:#0099CC;
+color:#C4FE6E;
 }
 .navigation li a:hover {
 text-decoration:underline;
 }
 .round {
--moz-border-radius:10px 10px 10px 10px;
+-moz-border-radius: 4px 4px 4px 4px;
 }
 #footer {
 margin-left:auto;

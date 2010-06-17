@@ -1,9 +1,9 @@
 <div id="footer">
   <ul class="navigation round">
-    <li>About</li>
-    <li>Contact</li>
-    <li><a href="http://news.railstutorial.org/">News</a></li>
-    <li><a href="http://www.railstutorial.org/">Rails Tutorial</a></li>
+    <li><a href="http://www.facebook.com/kevincv.lam">Facebook</a></li>
+    <li><a href=http://kevincvlam.tumblr.com/>Blog</a></li>
+    <li><a href="http://twitter.com/kevincvlam">Twitter</a></li>
+    <li><a href="http://github.com/kevincvlam/">Github</a></li>
   </ul>
 </div>
 
