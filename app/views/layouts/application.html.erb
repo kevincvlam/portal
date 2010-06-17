@@ -7,11 +7,13 @@
   </head>
   <body>
     <div class="container">
+      <div class="wrapper">
       <%= render 'layouts/header' %>
       <div id="content" class="round">
-        <center> <%= yield %> </center>
+        <h1><%= link_to "kevincvlam", root_path %></h1>
+          <%= yield %>
+        </div>
       </div>
-      <%= render 'layouts/footer' %>
     </div>
   </body>
 </html>

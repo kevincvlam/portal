@@ -1,0 +1,10 @@
+<div id="header" class="round">
+  <div id="name" class ="round">
+    <%= link_to "the portal", root_path %>
+  </div>
+  <ul class="navigation round">
+    <li><%= link_to "Home", root_path %></li>
+    <li>About</li>
+  </ul>
+</div>
+
