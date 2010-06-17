@@ -440,3 +440,12 @@ Rendered layouts/_stylesheets (5.0ms)
 Rendered layouts/_header (3.0ms)
 Rendered layouts/_footer (3.0ms)
 Completed in 186ms (View: 183, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 00:49:28) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (4.0ms)
+Rendered layouts/_header (2.0ms)
+Rendered layouts/_footer (2.0ms)
+Completed in 187ms (View: 183, DB: 0) | 200 OK [http://localhost/]
