@@ -2996,3 +2996,179 @@ Rendering pages/cv
 Rendered layouts/_stylesheets (15.0ms)
 Rendered layouts/_header (0.0ms)
 Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 16:27:56) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (16.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 140ms (View: 140, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 16:27:59) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 16:28:00) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 16:28:01) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 16:28:02) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 16:28:06) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (0.0ms)
+Rendered layouts/_header (15.0ms)
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 21:53:04) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (292.0ms)
+Rendered layouts/_header (85.0ms)
+Completed in 654ms (View: 652, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 21:53:14) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (10.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 96ms (View: 94, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 21:53:21) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (4.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 78ms (View: 72, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 22:05:05) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:05:08) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 44ms (View: 38, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:06:43) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 35ms (View: 32, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:07:20) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 32ms (View: 29, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 22:07:33) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 20ms (View: 14, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:07:38) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:08:05) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 33ms (View: 29, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:08:30) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 51ms (View: 37, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:09:06) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 32ms (View: 29, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-17 22:11:31) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (2.0ms)
+Completed in 47ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-17 22:11:34) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 32ms (View: 27, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:11:35) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 43ms (View: 39, DB: 0) | 200 OK [http://localhost/cv]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-17 22:12:34) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 33ms (View: 30, DB: 0) | 200 OK [http://localhost/cv]
