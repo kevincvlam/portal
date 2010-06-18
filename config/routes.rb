@@ -1,5 +1,5 @@
 ActionController::Routing::Routes.draw do |map|
-map.root :controller => 'pages', :action => 'home' 
+map.root :controller => 'timeline', :action => 'index' 
 map.about   '/about',   :controller => 'pages', :action => 'about'
 map.cv   '/cv',   :controller => 'pages', :action => 'cv'
 # The priority is based upon order of creation: first created -> highest priority.
