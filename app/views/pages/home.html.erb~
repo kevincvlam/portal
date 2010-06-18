@@ -1,4 +1,7 @@
-<div id="feed">latest web post
-<script src="http://feeds.feedburner.com/kevincvlam?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/kevincvlam"></a><br/>Powered by FeedBurner</p> </noscript>
+<div id="feed"><h7>latest tweet</h7>
+  <script src="http://feeds.feedburner.com/twitter/kevincvlam?format=sigpro" type="text/javascript" ></script>
+  <p>
+  <h7>latest blog post</h7>
+  <script src="http://feeds.feedburner.com/kevincvlam?format=sigpro" type="text/javascript" ></script></p>
 </div>
 
