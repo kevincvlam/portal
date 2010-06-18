@@ -3,13 +3,19 @@
    </div>
    <ul class="navigation round">
      <li><%= link_to "Home", root_path %></li>
-     <li><%= link_to "About", about_path %></li>
-     <li><a href="mailto:kevinlammusic@gmail.com">Email</a></li> 
+     <li><%= link_to "About", about_path %></li> 
     <li><a href="http://www.facebook.com/kevincv.lam">Facebook</a></li>
     <li><a href=http://kevincvlam.tumblr.com/>Blog</a></li>
     <li><a href="http://twitter.com/kevincvlam">Twitter</a></li>
     <li><a href="http://github.com/kevincvlam/">Github</a></li>
     <li><a href="http://www.youtube.com/user/Kevinlammusic">YouTube</a></li>
+
+
+    <div id=rss> <li>
+    
+    <a href="http://feeds.feedburner.com/kevincvlam" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/></a>&nbsp;<a href="http://feeds.feedburner.com/kevincvlam" rel="alternate" type="application/rss+xml">Subscribe in a reader</a>
+  </div>
+    </li>
   </ul>
 </div>
 

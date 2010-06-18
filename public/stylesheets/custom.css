@@ -1,10 +1,11 @@
+
 .container {
 background-image:url("/images/bg.png");
 background-repeat:no-repeat;
 display:table;
 font-family:Cambria;
 padding:1em;
-width:525px;
+width:585px;
 }
 .navigation {
 font-size:2em;
@@ -16,7 +17,7 @@ padding:0;
 }
 #header {
 float:right;
-padding:1em 1em;
+padding:0;
 }
 #titletail {
 color:gray;
@@ -31,11 +32,16 @@ font-size:1.1em;
 margin:-7em -2.5em;
 }
 #content {
+}
+#content a {
+display:inline;
+}
+#content {
 color:gray;
 font-size:1.38em;
 letter-spacing:0.05em;
 line-height:1em;
-margin-top:-18px;
+margin-top:1em;
 padding:0;
 }
 #footer {
@@ -59,8 +65,21 @@ width:60px;
 #cv h6 {
 list-style-type:square;
 }
+
+#cv a {
+font-weight:bold;
+
+}
+
 a:hover {
 text-decoration:underline;
+}
+#rss a:visited {
+font-size:0.6em;
+}
+#rss a {
+display:inline;
+font-size:1em;
 }
 p {
 margin:1em 0;

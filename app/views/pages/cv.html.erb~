@@ -47,7 +47,7 @@
       <ul><li><h5>Courtney Park Library Mural Project (Mississauga) [2004-2005]</li></h5>
         <h6><li>Participated in creating a large mural that now hangs in the Courtney Park Public Library</li></h6></ul>
 
-      <ul><li><h5>Commmencement Band (St. Marcellinus) [2007, 2008]</li></h5>
+      <ul><li><h5>Commencement Band (St. Marcellinus) [2007, 2008]</li></h5>
         <h6><li>Trumpet player in the band that performed at Commencement Ceremonies.</li></h6></ul>
 
     <h4>Skills and Qualifications</h4>
@@ -69,7 +69,7 @@
         <h6><li>Private art lessons from 2001 - 2009, learned to use a variety of mediums including pencils, pastels, oils, acrylic, watercolor, and poster paint. </li>
           <li>Designed the t-shirts for St.Marcellinus music program, for both the concert band and drum line.</li>
           <li>Fluent in Adobe Photoshop.</li>
-          <li>Designed poster for use at the Praxis II 2010 Showcase, which exhibited term-long design projects for the 2010 Winter Term.</li></h6></ul>
+          <li>Designed <%= link_to "poster", src="images/poster.jpg" %>for use at the Praxis II 2010 Showcase, which exhibited term-long design projects for the 2010 Winter Term.</li></h6></ul>
 
       <h4>Awards</h4>
       <ul><h6>
