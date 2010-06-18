@@ -1,2 +1,0 @@
-class TimelineController < ApplicationController
-end
