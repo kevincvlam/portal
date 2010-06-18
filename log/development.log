@@ -3444,3 +3444,27 @@ Rendering pages/home
 Rendered layouts/_stylesheets (2.0ms)
 Rendered layouts/_header (1.0ms)
 Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-18 11:50:04) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (9.0ms)
+Rendered layouts/_header (4.0ms)
+Completed in 167ms (View: 165, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-18 11:50:08) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 67ms (View: 61, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#cv (for 127.0.0.1 at 2010-06-18 11:50:10) [GET]
+Rendering template within layouts/application
+Rendering pages/cv
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 33ms (View: 30, DB: 0) | 200 OK [http://localhost/cv]
