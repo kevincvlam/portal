@@ -48,8 +48,17 @@ padding:0;
 float:right;
 padding:5em;
 }
+
+img {
+  border: 0.375em solid #DDDDDD;
+}
+
 #me {
 float:right;
+}
+
+#me img{
+border: 0em;
 }
 ul {
 list-style-type:none;

@@ -1,4 +1,323 @@
 
+html {
+font-size:100.01%;
+}
+body {
+background:url("http://assets.tumblr.com/images/x.gif") repeat scroll left top #FFFFFF;
+color:#333333;
+font:1em/1.5 Georgia,serif;
+margin:0;
+}
+:focus {
+outline:medium none;
+}
+a:link, a:visited, a:active {
+color:#C00906;
+text-decoration:none;
+}
+a:hover, a:focus {
+color:#333333;
+}
+h1, h2, h3, h4, h5, h6 {
+color:#111111;
+font-weight:normal;
+margin:0;
+padding:0;
+}
+p {
+margin:0 0 1.5em;
+}
+ul, ol {
+margin:0 0 1.5em;
+padding:0;
+}
+blockquote {
+border-left:2px solid #777777;
+color:#777777;
+margin:0 1em 1.5em;
+padding:0 1em;
+}
+blockquote ul, blockquote ol {
+margin-left:2em;
+}
+#header {
+background:none repeat scroll 0 0 #444444;
+margin:0 0 3em;
+padding:1.5em 0;
+position:relative;
+}
+#inner-header {
+margin:0 auto;
+width:32em;
+}
+#inner-header h1 {
+font-size:3em;
+line-height:1;
+}
+#inner-header h1 a {
+color:#FFFFFF;
+text-decoration:none;
+}
+#inner-header h1 a:hover {
+color:#999999;
+}
+#inner-header h2 {
+color:#999999;
+font-size:1.1em;
+line-height:1.36363;
+}
+#header-shadow {
+background:url("http://static.tumblr.com/eth9fj1/SITklre6t/header-shadow.png") repeat-x scroll center top transparent;
+bottom:-24px;
+display:block;
+height:24px;
+position:absolute;
+width:100%;
+}
+#posts {
+margin:4.5em auto 0;
+width:32em;
+}
+#posts .post {
+margin-bottom:2.25em;
+padding-bottom:2.25em;
+position:relative;
+}
+#daypageblurb, #tagpageblurb, #searchresultblurb {
+color:#777777;
+font-size:1.25em;
+font-style:italic;
+line-height:1.2em;
+margin-bottom:2.4em;
+}
+.date {
+border-top:2px solid #CCCCCC;
+left:-6em;
+position:absolute;
+text-align:center;
+width:4em;
+}
+.date .permalink {
+font-size:1.2em;
+font-variant:small-caps;
+line-height:1.25;
+text-decoration:none;
+text-transform:lowercase;
+}
+.date .day, .date .month {
+display:block;
+}
+.date .month {
+font-size:1.3em;
+line-height:1.15385;
+}
+.post h3 {
+font-size:1.5em;
+line-height:1;
+margin-bottom:1em;
+}
+.post .caption, .post .source {
+margin-top:1.5em;
+}
+.audio .player .play-count {
+color:#777777;
+float:right;
+font-size:0.83333em;
+}
+.audio .caption {
+clear:right;
+}
+.chat ul {
+list-style:none outside none;
+margin:0 0 1.5em;
+}
+.chat ul li.odd {
+color:#777777;
+}
+.chat ul li .who {
+background:none repeat scroll 0 0 #333333;
+color:#FFFFFF;
+padding:0 0.25em;
+}
+.chat ul li.odd .who {
+background:none repeat scroll 0 0 #777777;
+}
+.photo .image {
+position:relative;
+}
+.photo .image img {
+border:0.375em solid #DDDDDD;
+}
+.photo .image .hi-res {
+-moz-border-radius:3px 3px 3px 3px;
+background:none repeat scroll 0 0 #333333;
+bottom:1.5em;
+color:#FFFFFF;
+display:none;
+font-size:0.75em;
+opacity:0.9;
+padding:0 0.5em;
+position:absolute;
+right:1em;
+}
+.photo .image:hover .hi-res {
+display:inline;
+}
+.photoset .set {
+border:0.375em solid #DDDDDD;
+padding:0;
+}
+.photoset .set object, .photoset .set embed {
+display:block;
+}
+.quote big {
+color:#E0E0E0;
+font-size:6em;
+font-weight:bold;
+left:-0.15em;
+line-height:0.5em;
+position:absolute;
+z-index:1;
+}
+.quote .quote-words {
+font-size:1.3em;
+line-height:1.15385;
+position:relative;
+z-index:10;
+}
+.quote .source {
+color:#777777;
+}
+.reblogged {
+color:#777777;
+display:block;
+font-size:0.833333em;
+font-style:italic;
+margin:1.5em 0;
+text-align:right;
+}
+.post-footer {
+border-top:1px solid #CCCCCC;
+color:#777777;
+font-size:0.75em;
+margin:1.5em 0 0;
+padding:0.5em 0 1em;
+text-align:right;
+}
+.post-footer li {
+display:inline;
+margin-left:1em;
+}
+#note-container h4 {
+font-size:1.3em;
+line-height:1.15385;
+margin-bottom:1.15385em;
+}
+#note-container .notes .note {
+border-bottom:1px solid #AAAAAA;
+margin:0 0 0.75em;
+padding:0 0 0.75em;
+}
+#note-container .notes .avatar {
+display:none;
+}
+#pagination {
+margin:3em auto 1.5em;
+width:32em;
+}
+#pagination a {
+margin-right:1.5em;
+}
+#footer {
+border-top:1px solid #333333;
+margin:3em auto 0;
+padding:0.75em 0;
+width:44em;
+}
+#footer #search {
+float:right;
+}
+#footer #search #keywords {
+border:1px solid #777777;
+padding:0.25em;
+}
+#footer #meta-info {
+margin:0;
+}
+#footer #meta-info li {
+display:inline;
+font-size:1.1em;
+margin-right:1em;
+}
+#footer #theme-info {
+clear:left;
+margin:0.75em 0;
+}
+#footer #theme-info li {
+color:#777777;
+display:inline;
+font-size:0.75em;
+margin-right:1em;
+}
+.port {
+float:right;
+}
+ 
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+</head>
+<body>
+<div id="header">
+</div>
+<div id="posts" class="autopagerize_page_element">
+<div class="post">
+<div class="date">
+</div>
+<div class="photo">
+<div class="image">
+<a href="http://kevincvlam.tumblr.com/photo/1280/715652615/1/tumblr_l49xtyoXFr1qbjyua">
+<img alt="Pre-Alpha Release for my Hacker Academy Project and code for Constraint Satisfaction project due next week. Let&#8217;s get cracking 8D!" src="http://29.media.tumblr.com/tumblr_l49xtyoXFr1qbjyuao1_500.jpg">
+</a>
+<a class="hi-res" href="http://kevincvlam.tumblr.com/photo/1280/715652615/1/tumblr_l49xtyoXFr1qbjyua">Click for high-res photo</a>
+</div>
+<div class="caption">
+</div>
+</div>
+<ul class="post-footer">
+</ul>
+</div>
+<div class="post">
+</div>
+<div class="post">
+</div>
+<div class="post">
+</div>
+<div class="post">
+</div>
+<div class="post">
+</div>
+<div class="post">
+</div>
+<div class="post">
+</div>
+<div class="post">
+</div>
+<div class="post">
+</div>
+</div>
+<div id="pagination" class="autopagerize_insert_before">
+</div>
+<div id="footer">
+</div>
+<iframe id="tumblr_controls" scrolling="no" height="25" frameborder="0" width="324" style="position: absolute; z-index: 1337; top: 0px; right: 0px; border: 0px none; background-color: transparent; overflow: hidden;" src="http://www.tumblr.com/dashboard/iframe?src=http%3A%2F%2Fkevincvlam.tumblr.com%2F">
+</iframe>
+<script type="text/javascript">
+</script>
+<script src="http://edge.quantserve.com/quant.js" type="text/javascript">
+</script>
+<noscript>&lt;img src="http://pixel.quantserve.com/pixel/p-19UtqE8ngoZbM.gif" style="display:none; border-width:0px; height:1px; width:1px;" alt=""/&gt;</noscript>
+</body>
+</html>
 .container {
 background-image:url("/images/bg.png");
 background-repeat:no-repeat;
@@ -48,8 +367,13 @@ padding:0;
 float:right;
 padding:5em;
 }
+#me img {
+}
 #me {
 float:right;
+}
+img {
+border:0.375em solid #DDDDDD;
 }
 ul {
 list-style-type:none;
@@ -60,17 +384,14 @@ a {
 color:black;
 display:block;
 text-decoration:none;
-width:5em;
+width:4em;
 }
 #cv h6 {
 list-style-type:square;
 }
-
 #cv a {
 font-weight:bold;
-
 }
-
 a:hover {
 text-decoration:underline;
 }

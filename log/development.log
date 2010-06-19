@@ -3815,4 +3815,39 @@ Rendering pages/home
 Rendered layouts/_stylesheets (4.0ms)
 Rendered layouts/_header (0.0ms)
 Completed in 34ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+<<<<<<< HEAD
+>>>>>>> local
+=======
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-19 14:34:52) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (12.0ms)
+Rendered layouts/_header (33.0ms)
+Completed in 286ms (View: 283, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-19 14:36:24) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-06-19 14:36:28) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 29ms (View: 26, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-19 14:36:31) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 21ms (View: 16, DB: 0) | 200 OK [http://localhost/]
 >>>>>>> local
