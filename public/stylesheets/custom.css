@@ -5,7 +5,7 @@ background-repeat:no-repeat;
 display:table;
 font-family:Cambria;
 padding:1em;
-width:585px;
+width:49em;
 }
 .navigation {
 font-size:2em;
@@ -60,7 +60,7 @@ a {
 color:black;
 display:block;
 text-decoration:none;
-width:60px;
+width:4em;
 }
 #cv h6 {
 list-style-type:square;
