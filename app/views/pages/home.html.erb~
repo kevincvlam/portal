@@ -1,7 +1,8 @@
-<div id="feed"><h7>latest tweet</h7>
-  <script src="http://feeds.feedburner.com/twitter/kevincvlam?format=sigpro" type="text/javascript" ></script>
+<div id="feed">
+
+
   <p>
-  <h7>latest blog post</h7>
+  <h6>latest blog post</h6>
   <script src="http://feeds.feedburner.com/kevincvlam?format=sigpro" type="text/javascript" ></script></p>
 </div>
 
