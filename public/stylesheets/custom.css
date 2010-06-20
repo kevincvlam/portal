@@ -1,17 +1,16 @@
-
 .container {
 background-image:url("/images/bg.png");
 background-repeat:no-repeat;
 display:table;
 font-family:Cambria;
 padding:1em;
-width:49em;
+width:57em;
 }
 .navigation {
 font-size:2em;
 }
 #name {
-font-size:2.3em;
+font-size:3em;
 margin:0;
 padding:0;
 }
@@ -21,14 +20,14 @@ padding:0;
 }
 #titletail {
 color:gray;
-font-size:2.3em;
+font-size:2.5em;
 line-height:1;
-margin-top:-1.8em;
+margin-top:-2.2em;
 padding:0;
 }
 #contact {
 float:left;
-font-size:1.1em;
+font-size:1.5em;
 margin:-7em -2.5em;
 }
 #content {
@@ -48,17 +47,15 @@ padding:0;
 float:right;
 padding:5em;
 }
-
 img {
-  border: 0.375em solid #DDDDDD;
+border:0.375em solid #DDDDDD;
 }
-
 #me {
 float:right;
+margin:0 1em;
 }
-
-#me img{
-border: 0em;
+#me img {
+border:0 none;
 }
 ul {
 list-style-type:none;
@@ -74,12 +71,9 @@ width:4em;
 #cv h6 {
 list-style-type:square;
 }
-
 #cv a {
 font-weight:bold;
-
 }
-
 a:hover {
 text-decoration:underline;
 }
