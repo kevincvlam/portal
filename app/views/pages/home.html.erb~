@@ -1,8 +1,15 @@
 <div id="feed">
 
-
+<h6>latest tweet</h6>
+  <script src="http://feeds.feedburner.com/twitter/kevincvlam?format=sigpro" type="text/javascript" ></script>
   <p>
   <h6>latest blog post</h6>
   <script src="http://feeds.feedburner.com/kevincvlam?format=sigpro" type="text/javascript" ></script></p>
+
+  <p>
+  <h6>latest gitHub activity</h6>
+  <script src="http://feeds.feedburner.com/gitHub/kevincvlam?format=sigpro" type="text/javascript" ></script>
+  </p>
 </div>
+
 
