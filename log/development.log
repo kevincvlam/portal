@@ -3956,3 +3956,19 @@ Rendering pages/home
 Rendered layouts/_stylesheets (4.0ms)
 Rendered layouts/_header (0.0ms)
 Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-26 17:27:12) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (10.0ms)
+Rendered layouts/_header (13.0ms)
+Completed in 190ms (View: 187, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-06-26 17:27:54) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 22ms (View: 19, DB: 0) | 200 OK [http://localhost/]
