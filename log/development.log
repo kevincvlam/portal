@@ -3972,3 +3972,139 @@ Rendering pages/home
 Rendered layouts/_stylesheets (2.0ms)
 Rendered layouts/_header (1.0ms)
 Completed in 22ms (View: 19, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-06 22:39:50) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (10.0ms)
+Rendered layouts/_header (4.0ms)
+Completed in 265ms (View: 262, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-06 22:41:23) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (3.0ms)
+Completed in 21ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:41:25) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:41:41) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 25ms (View: 21, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:46:10) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 25ms (View: 21, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:49:08) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (4.0ms)
+Completed in 26ms (View: 22, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:49:27) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 22ms (View: 19, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-06 22:49:32) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-07-06 22:49:32) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 30ms (View: 26, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:49:33) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (4.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:52:01) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 35ms (View: 31, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-06 22:52:04) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:52:30) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:53:01) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 25ms (View: 21, DB: 0) | 200 OK [http://localhost/music]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-06 22:53:54) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 26ms (View: 21, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-06 22:54:15) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (2.0ms)
+Rendered layouts/_header (0.0ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#music (for 127.0.0.1 at 2010-07-06 22:54:17) [GET]
+Rendering template within layouts/application
+Rendering pages/music
+Rendered layouts/_stylesheets (3.0ms)
+Rendered layouts/_header (1.0ms)
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/music]

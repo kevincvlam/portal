@@ -4,6 +4,7 @@
   <head>
     <title><%= title %></title>
     <%= render 'layouts/stylesheets' %>
+    <script type="text/javascript" src="http://o.aolcdn.com/art/merge?f=/_media/sp/sp-player.js&f=/_media/sp/sp-player-tumblr.js&expsec=86400&ver=11"></script>
   </head>
   <body>
     <div class="container">
@@ -12,7 +13,7 @@
       <div id ="name" class ="round">
         <h1><%= link_to "kevincvlam", root_path %></h1></div>
       <div id="contact">
-         <a href="mailto:kevinlammusic@gmail.com">email</a>  <%= link_to "c.v.", about_path %><br>
+         <a href="mailto:kevinlammusic@gmail.com">email</a>  <%= link_to "c.v.", cv_path %><br>
        </div>
         <div id="titletail" class="round">
           engineering student<br>musician<br>artist<br>
@@ -22,6 +23,11 @@
         </div>
       </div>
     </div>
+
+<script>
+api=kevinlammusic.tumblr.com
+</script>
+    
   </body>
 </html>
 
